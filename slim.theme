@@ -1,0 +1,33 @@
+# ObSimple SLiM theme, Created by Volk_Milit (aka return-1, also javirrdar)
+# return-1.deviantart.com
+# reddit.com/u/javirrdar
+# github.com/VolkMilit
+#
+#
+# original:
+# Google Now SLiM themes. Created by Nourman Hajar/masnormen
+# Semarang, ID. 02-08-2013
+
+# valid values: center, stretch, tile
+background_style        stretch
+background_color        #2d2d2d
+
+# Login Name
+username_font		Arimo:size=13
+username_color		#fff
+password_x		50%
+password_y		50%
+username_x		50%
+username_y		79%
+username_msg            
+password_msg		
+
+# Input controls
+input_panel_x           50%
+input_panel_y           50%
+input_name_x            50
+input_name_y            251
+input_pass_x            50
+input_pass_y            251
+input_font              Inconsolata:size=15
+input_color		#fff
