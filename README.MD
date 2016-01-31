@@ -1,4 +1,4 @@
 # ObSimple
 Simple SLiM theme.
 
-![screenshot](screenshot.png)					
+![screenshot](slim.png)					
